@@ -1,6 +1,6 @@
 ﻿using MongoDB.Bson;
 
-namespace ReevelaVectorDbApi.Services
+namespace VectorDbApi.Services
 {
     public class VenueProduct
     {

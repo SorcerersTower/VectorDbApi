@@ -1,4 +1,4 @@
-using ReevelaVectorDbApi.Services;
+using VectorDbApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

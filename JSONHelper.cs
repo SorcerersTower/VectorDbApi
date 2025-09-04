@@ -1,11 +1,11 @@
 ﻿using Newtonsoft.Json;
-using ReevelaVectorDbApi.Models;
+using VectorDbApi.Models;
 using System.Reflection;
 using System;
 using System.Text.Json;
 using SixLabors.ImageSharp;
 
-namespace ReevelaVectorDbApi
+namespace VectorDbApi
 {
     public class JSONHelper
     {

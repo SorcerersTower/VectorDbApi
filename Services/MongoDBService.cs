@@ -1,7 +1,7 @@
 ﻿using MongoDB.Driver;
-using ReevelaVectorDbApi.Models;
+using VectorDbApi.Models;
 
-namespace ReevelaVectorDbApi.Services
+namespace VectorDbApi.Services
 {
     public class MongoDBService
     {

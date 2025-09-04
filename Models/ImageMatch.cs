@@ -1,4 +1,4 @@
-﻿namespace ReevelaVectorDbApi.Models
+﻿namespace VectorDbApi.Models
 {
     public class ImageMatch
     {

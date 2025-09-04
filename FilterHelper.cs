@@ -1,8 +1,8 @@
-﻿using ReevelaVectorDbApi.Models;
-using ReevelaVectorDbApi.Services;
+﻿using VectorDbApi.Models;
+using VectorDbApi.Services;
 using System.Text.Json;
 
-namespace ReevelaVectorDbApi
+namespace VectorDbApi
 {
     public class FilterHelper
     {

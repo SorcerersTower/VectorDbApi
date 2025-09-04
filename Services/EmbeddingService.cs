@@ -5,7 +5,7 @@ using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Processing;
 
-namespace ReevelaVectorDbApi.Services
+namespace VectorDbApi.Services
 {
     public class EmbeddingService
     {

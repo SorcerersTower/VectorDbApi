@@ -1,10 +1,10 @@
 ﻿
-using ReevelaVectorDbApi.Models;
+using VectorDbApi.Models;
 using System.Net.Http.Headers;
 using Newtonsoft.Json;
 using SixLabors.ImageSharp;
 
-namespace ReevelaVectorDbApi.Services
+namespace VectorDbApi.Services
 {
     public class PineConeService
     {

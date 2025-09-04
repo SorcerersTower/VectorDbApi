@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.ML.OnnxRuntime;
 using Microsoft.ML.OnnxRuntime.Tensors;
-using ReevelaVectorDbApi.Models;
-using ReevelaVectorDbApi.Services;
+using VectorDbApi.Models;
+using VectorDbApi.Services;
 using SixLabors.ImageSharp;
 using SixLabors.ImageSharp.PixelFormats;
 using SixLabors.ImageSharp.Formats;
@@ -11,7 +11,7 @@ using System.Diagnostics;
 using System.Numerics;
 using System.Text.RegularExpressions;
 
-namespace ReevelaVectorDbApi.Controllers
+namespace VectorDbApi.Controllers
 {
 
     [ApiController] 
